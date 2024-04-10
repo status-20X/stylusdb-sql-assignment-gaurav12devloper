@@ -30,8 +30,7 @@
     "test:19": "jest --testPathPattern=./tests/step-19",
     "test:20": "jest --testPathPattern=./tests/step-20",
     "test-verbose": "jest --verbose",
-    "server": "node ./src/server.js",
-    "test": "jest"
+    "server": "node ./src/server.js"
   },
   "bin": {
     "stylusdb-cli": "node ./src/cli.js"
